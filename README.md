@@ -22,8 +22,7 @@ based on indicators of hatespeech for women in politics, updates will be uploade
 
 | text | label | type | source |
 |------|---------|---------|----------|
-| "¡ Sopas ! Por andar de metiche y de H0CIC0NA atacando a Argentina. ¿Que creen? Claudia Sheinbaum ahora está en manos de Javier Milei. 
-Lean un extracto de la columna de Salvador García Soto. "Dice la sabiduría popular que el que a hierro mata a hierro muere" | 1 | explicito | real |
+| "¡ Sopas ! Por andar de metiche y de H0CIC0NA atacando a Argentina. ¿Que creen? Claudia Sheinbaum ahora está en manos de Javier Milei. Lean un extracto de la columna de Salvador García Soto. "Dice la sabiduría popular que el que a hierro mata a hierro muere" | 1 | explicito | real |
 
 ## File Format
 
